@@ -1,0 +1,3 @@
+[submodule "deferredjs"]
+	path = deferredjs
+	url = git@github.com:kei-ito/deferredjs.git
